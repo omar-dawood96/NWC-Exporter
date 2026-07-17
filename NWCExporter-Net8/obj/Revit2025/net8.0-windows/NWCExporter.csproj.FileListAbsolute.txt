@@ -1,0 +1,60 @@
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\Resources\NWC-16.png
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\Resources\NWC-32.png
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.deps.json
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.dll
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.pdb
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.csproj.AssemblyReference.cache
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Themes\ThemeDark.baml
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Themes\ThemeLight.baml
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Views\MainWindow.baml
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Views\MainWindow.g.cs
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter_MarkupCompile.cache
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.g.resources
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.GeneratedMSBuildEditorConfig.editorconfig
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.AssemblyInfoInputs.cache
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.AssemblyInfo.cs
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.csproj.CoreCompileInputs.cache
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.dll
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\refint\NWCExporter.dll
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.pdb
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-YourAddinName\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\ref\NWCExporter.dll
+C:\Users\omar\Downloads\NWCExporter-Net8\bin\Revit2025\net8.0-windows\Resources\NWC-16.png
+C:\Users\omar\Downloads\NWCExporter-Net8\bin\Revit2025\net8.0-windows\Resources\NWC-32.png
+C:\Users\omar\Downloads\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.deps.json
+C:\Users\omar\Downloads\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.dll
+C:\Users\omar\Downloads\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.pdb
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.csproj.AssemblyReference.cache
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Themes\ThemeDark.baml
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Themes\ThemeLight.baml
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Views\MainWindow.baml
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter_MarkupCompile.cache
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.g.resources
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.AssemblyInfoInputs.cache
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.AssemblyInfo.cs
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.csproj.CoreCompileInputs.cache
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.dll
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\refint\NWCExporter.dll
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.pdb
+C:\Users\omar\Downloads\NWCExporter-Net8\obj\Revit2025\net8.0-windows\ref\NWCExporter.dll
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\Resources\NWC-16.png
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\Resources\NWC-32.png
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.deps.json
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.dll
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\bin\Revit2025\net8.0-windows\NWCExporter.pdb
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.csproj.AssemblyReference.cache
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Themes\ThemeDark.baml
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Themes\ThemeLight.baml
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Views\MainWindow.baml
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\Views\MainWindow.g.cs
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter_MarkupCompile.cache
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.g.resources
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.GeneratedMSBuildEditorConfig.editorconfig
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.AssemblyInfoInputs.cache
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.AssemblyInfo.cs
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.csproj.CoreCompileInputs.cache
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.dll
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\refint\NWCExporter.dll
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\NWCExporter.pdb
+E:\BIM Application Development (Programming Diploma)\000-Assignments\GP\KT-BD-R10-GP-Omar Ali-NWCExporter\Source Code\NWCExporter-Net8\obj\Revit2025\net8.0-windows\ref\NWCExporter.dll

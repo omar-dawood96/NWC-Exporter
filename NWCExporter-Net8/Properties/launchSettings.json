@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "NWCExporter": {
+      "commandName": "Project"
+    },
+    "Revit2024": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\Revit 2024\\Revit.exe"
+    }
+  }
+}

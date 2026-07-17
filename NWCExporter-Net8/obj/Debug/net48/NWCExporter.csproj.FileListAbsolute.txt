@@ -1,0 +1,17 @@
+D:\2026\Revit API\NWC Exporter\NWCExporter\bin\Debug\net48\Resources\NWC-16.png
+D:\2026\Revit API\NWC Exporter\NWCExporter\bin\Debug\net48\Resources\NWC-32.png
+D:\2026\Revit API\NWC Exporter\NWCExporter\bin\Debug\net48\NWCExporter.dll
+D:\2026\Revit API\NWC Exporter\NWCExporter\bin\Debug\net48\NWCExporter.pdb
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter.csproj.AssemblyReference.cache
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\Views\MainWindow.baml
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\Views\MainWindow.g.cs
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter_MarkupCompile.cache
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter.g.resources
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter.AssemblyInfoInputs.cache
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter.AssemblyInfo.cs
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter.csproj.CoreCompileInputs.cache
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter.dll
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\NWCExporter.pdb
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\Themes\ThemeDark.baml
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Debug\net48\Themes\ThemeLight.baml

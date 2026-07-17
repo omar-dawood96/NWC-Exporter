@@ -1,0 +1,1 @@
+D:\2026\Revit API\NWC Exporter\NWCExporter\obj\Revit2026\net48\NWCExporter.csproj.AssemblyReference.cache

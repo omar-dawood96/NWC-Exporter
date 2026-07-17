@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>NWC Exporter</Name>
+    <Assembly>NWCExporter.dll</Assembly>
+    <FullClassName>NWCExporter.Revit.App</FullClassName>
+    <ClientId>F76CC479-71E9-44DF-9D09-ABBED92F38F2</ClientId>
+    <VendorId>Omar Ali</VendorId>
+    <VendorDescription>NWC Exporter Plugin</VendorDescription>
+  </AddIn>
+</RevitAddIns>

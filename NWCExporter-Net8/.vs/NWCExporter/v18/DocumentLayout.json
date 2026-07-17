@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|e:\\bim application development (programming diploma)\\000-assignments\\gp\\kt-bd-r10-gp-omar ali-nwcexporter\\source code\\nwcexporter-net8\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|e:\\bim application development (programming diploma)\\000-assignments\\gp\\kt-bd-r10-gp-omar ali-nwcexporter\\source code\\nwcexporter-net8\\commands\\openexportercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|solutionrelative:commands\\openexportercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|e:\\bim application development (programming diploma)\\000-assignments\\gp\\kt-bd-r10-gp-omar ali-nwcexporter\\source code\\nwcexporter-net8\\revit\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|solutionrelative:revit\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|e:\\bim application development (programming diploma)\\000-assignments\\gp\\kt-bd-r10-gp-omar ali-nwcexporter\\source code\\nwcexporter-net8\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|e:\\bim application development (programming diploma)\\000-assignments\\gp\\kt-bd-r10-gp-omar ali-nwcexporter\\source code\\nwcexporter-net8\\models\\view3ditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37249280-C257-E8A2-580B-44DAFD977509}|NWCExporter.csproj|solutionrelative:models\\view3ditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
+              "ToolTip": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:52:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpenExporterCommand.cs",
+              "DocumentMoniker": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\Commands\\OpenExporterCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\OpenExporterCommand.cs",
+              "ToolTip": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\Commands\\OpenExporterCommand.cs",
+              "RelativeToolTip": "Commands\\OpenExporterCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:52:24.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.cs",
+              "DocumentMoniker": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\Revit\\App.cs",
+              "RelativeDocumentMoniker": "Revit\\App.cs",
+              "ToolTip": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\Revit\\App.cs",
+              "RelativeToolTip": "Revit\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:31:35.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4EAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T14:31:48.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View3DItem.cs",
+              "DocumentMoniker": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\Models\\View3DItem.cs",
+              "RelativeDocumentMoniker": "Models\\View3DItem.cs",
+              "ToolTip": "E:\\BIM Application Development (Programming Diploma)\\000-Assignments\\GP\\KT-BD-R10-GP-Omar Ali-NWCExporter\\Source Code\\NWCExporter-Net8\\Models\\View3DItem.cs",
+              "RelativeToolTip": "Models\\View3DItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T13:16:40.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
